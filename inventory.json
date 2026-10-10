@@ -1,10 +1,36 @@
 {
   "dealership": "Greg Gardner Motors Ltd",
-  "generated_at": "2026-10-08T14:37:18",
-  "vehicle_count": 118,
+  "generated_at": "2026-10-10T04:30:01",
+  "vehicle_count": 124,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
   "vehicles": [
+    {
+      "name": "Used2014JeepCherokeeLimited",
+      "vin": "1C4PJMDS1EW271989",
+      "stock": "U26248",
+      "color": "Gray",
+      "url": "https://willyml1979-dotcom.github.io/greg-gardner-motors-ltd-mirror/used/5053be352583.html",
+      "source_url": "https://www.greggardnergm.com/inventory/2014-jeep-cherokee-limited-ss8YI1zcRjqDewN9vhhSvwvdp",
+      "dealer_url": "https://www.greggardnergm.com/inventory/2014-jeep-cherokee-limited-ss8YI1zcRjqDewN9vhhSvwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-10T04:27:00",
+      "condition": "used",
+      "city": "Squamish",
+      "province": "BC"
+    },
+    {
+      "name": "Used2018GMCYukonSLT",
+      "vin": "1GKS2BKC5JR233623",
+      "stock": "U26246",
+      "color": "Black",
+      "url": "https://willyml1979-dotcom.github.io/greg-gardner-motors-ltd-mirror/used/028fa7c1c950.html",
+      "source_url": "https://www.greggardnergm.com/inventory/2018-gmc-yukon-slt-imzVpOjDTHmNhgc2K2InLgvdp",
+      "dealer_url": "https://www.greggardnergm.com/inventory/2018-gmc-yukon-slt-imzVpOjDTHmNhgc2K2InLgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-10T04:27:12",
+      "condition": "used",
+      "city": "Squamish",
+      "province": "BC"
+    },
     {
       "name": "Used2020ChevroletBolt EVLT",
       "vin": "1G1FY6S04L4127309",
@@ -13,7 +39,7 @@
       "url": "https://willyml1979-dotcom.github.io/greg-gardner-motors-ltd-mirror/used/82f96d8afb92.html",
       "source_url": "https://www.greggardnergm.com/inventory/2020-chevrolet-bolt-ev-lt-PqpbwSqATXSyy4SRW1E9Rgvdp",
       "dealer_url": "https://www.greggardnergm.com/inventory/2020-chevrolet-bolt-ev-lt-PqpbwSqATXSyy4SRW1E9Rgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T05:29:29",
+      "last_verified": "2026-10-10T04:28:03",
       "condition": "used",
       "city": "Squamish",
       "province": "BC"
@@ -26,7 +52,7 @@
       "url": "https://willyml1979-dotcom.github.io/greg-gardner-motors-ltd-mirror/used/7ee19d6c0fb1.html",
       "source_url": "https://www.greggardnergm.com/inventory/2020-chevrolet-silverado-3500hd-ltz-c53XbBE4QXWrK52ZaIqT1Avdp",
       "dealer_url": "https://www.greggardnergm.com/inventory/2020-chevrolet-silverado-3500hd-ltz-c53XbBE4QXWrK52ZaIqT1Avdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T05:29:41",
+      "last_verified": "2026-10-10T04:28:13",
       "condition": "used",
       "city": "Squamish",
       "province": "BC"
@@ -39,7 +65,7 @@
       "url": "https://willyml1979-dotcom.github.io/greg-gardner-motors-ltd-mirror/used/d19a22a5f9be.html",
       "source_url": "https://www.greggardnergm.com/inventory/2022-chevrolet-bolt-ev-1lt-Y3WGcEIHR1iFVKcAZrrGMAvdp",
       "dealer_url": "https://www.greggardnergm.com/inventory/2022-chevrolet-bolt-ev-1lt-Y3WGcEIHR1iFVKcAZrrGMAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T05:29:51",
+      "last_verified": "2026-10-10T04:28:22",
       "condition": "used",
       "city": "Squamish",
       "province": "BC"
@@ -52,7 +78,7 @@
       "url": "https://willyml1979-dotcom.github.io/greg-gardner-motors-ltd-mirror/used/209976745014.html",
       "source_url": "https://www.greggardnergm.com/inventory/2022-gmc-sierra-1500-at4-sCgtZdlwTnCq2gNvh6D6Qwvdp",
       "dealer_url": "https://www.greggardnergm.com/inventory/2022-gmc-sierra-1500-at4-sCgtZdlwTnCq2gNvh6D6Qwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T05:30:02",
+      "last_verified": "2026-10-10T04:28:32",
       "condition": "used",
       "city": "Squamish",
       "province": "BC"
@@ -65,7 +91,7 @@
       "url": "https://willyml1979-dotcom.github.io/greg-gardner-motors-ltd-mirror/used/26f0bb03fde3.html",
       "source_url": "https://www.greggardnergm.com/inventory/2022-gmc-sierra-1500-limited-sle-pJXpnsADSrS88y5OAdRaXAvdp",
       "dealer_url": "https://www.greggardnergm.com/inventory/2022-gmc-sierra-1500-limited-sle-pJXpnsADSrS88y5OAdRaXAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T05:30:12",
+      "last_verified": "2026-10-10T04:28:43",
       "condition": "used",
       "city": "Squamish",
       "province": "BC"
@@ -78,7 +104,7 @@
       "url": "https://willyml1979-dotcom.github.io/greg-gardner-motors-ltd-mirror/used/79042e2d0da0.html",
       "source_url": "https://www.greggardnergm.com/inventory/2022-gmc-sierra-3500hd-pro-Xm0TbBkoRVe4PsTg7VyODQvdp",
       "dealer_url": "https://www.greggardnergm.com/inventory/2022-gmc-sierra-3500hd-pro-Xm0TbBkoRVe4PsTg7VyODQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T05:30:23",
+      "last_verified": "2026-10-10T04:28:54",
       "condition": "used",
       "city": "Squamish",
       "province": "BC"
@@ -104,7 +130,7 @@
       "url": "https://willyml1979-dotcom.github.io/greg-gardner-motors-ltd-mirror/used/5fb31e530675.html",
       "source_url": "https://www.greggardnergm.com/inventory/2022-gmc-terrain-slt-CcRH6x01S4Gcm4w8QZVsMwvdp",
       "dealer_url": "https://www.greggardnergm.com/inventory/2022-gmc-terrain-slt-CcRH6x01S4Gcm4w8QZVsMwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T05:30:46",
+      "last_verified": "2026-10-10T04:29:05",
       "condition": "used",
       "city": "Squamish",
       "province": "BC"
@@ -117,7 +143,7 @@
       "url": "https://willyml1979-dotcom.github.io/greg-gardner-motors-ltd-mirror/used/82f4b2eeb5e7.html",
       "source_url": "https://www.greggardnergm.com/inventory/2022-gmc-yukon-xl-slt-7F3LkRsCQDexKXFKyWYg0gvdp",
       "dealer_url": "https://www.greggardnergm.com/inventory/2022-gmc-yukon-xl-slt-7F3LkRsCQDexKXFKyWYg0gvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T05:30:57",
+      "last_verified": "2026-10-10T04:29:16",
       "condition": "used",
       "city": "Squamish",
       "province": "BC"
@@ -130,7 +156,7 @@
       "url": "https://willyml1979-dotcom.github.io/greg-gardner-motors-ltd-mirror/used/e8ca949bd3a8.html",
       "source_url": "https://www.greggardnergm.com/inventory/2022-ram-1500-big-horn-sMoLjt9aSfG46euOySKw3wvdp",
       "dealer_url": "https://www.greggardnergm.com/inventory/2022-ram-1500-big-horn-sMoLjt9aSfG46euOySKw3wvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T05:31:07",
+      "last_verified": "2026-10-10T04:29:26",
       "condition": "used",
       "city": "Squamish",
       "province": "BC"
@@ -139,10 +165,23 @@
       "name": "Used2022ToyotaTacoma",
       "vin": "3TYDZ5BN7NT009364",
       "stock": "U26229",
+      "color": "Silver",
       "url": "https://willyml1979-dotcom.github.io/greg-gardner-motors-ltd-mirror/used/beb3e98365a8.html",
       "source_url": "https://www.greggardnergm.com/inventory/2022-toyota-tacoma-fEVRj3c2T7igczGH4LS6Zwvdp",
       "dealer_url": "https://www.greggardnergm.com/inventory/2022-toyota-tacoma-fEVRj3c2T7igczGH4LS6Zwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T05:31:18",
+      "last_verified": "2026-10-10T04:29:38",
+      "condition": "used",
+      "city": "Squamish",
+      "province": "BC"
+    },
+    {
+      "name": "Used2022ToyotaTundraPlatinum",
+      "vin": "5TFMA5DB4NX030480",
+      "stock": "U26232",
+      "url": "https://willyml1979-dotcom.github.io/greg-gardner-motors-ltd-mirror/used/7cfc6f7a5e98.html",
+      "source_url": "https://www.greggardnergm.com/inventory/2022-toyota-tundra-platinum-2ySQ3LRKSMe35eJ7kfJXUwvdp",
+      "dealer_url": "https://www.greggardnergm.com/inventory/2022-toyota-tundra-platinum-2ySQ3LRKSMe35eJ7kfJXUwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-10T04:27:21",
       "condition": "used",
       "city": "Squamish",
       "province": "BC"
@@ -168,7 +207,20 @@
       "url": "https://willyml1979-dotcom.github.io/greg-gardner-motors-ltd-mirror/used/a2c9e27ca026.html",
       "source_url": "https://www.greggardnergm.com/inventory/2023-chevrolet-tahoe-premier-XhMTgypWRA6coEhEmlG2CQvdp",
       "dealer_url": "https://www.greggardnergm.com/inventory/2023-chevrolet-tahoe-premier-XhMTgypWRA6coEhEmlG2CQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T05:31:39",
+      "last_verified": "2026-10-10T04:29:53",
+      "condition": "used",
+      "city": "Squamish",
+      "province": "BC"
+    },
+    {
+      "name": "Used2023ChevroletTrailBlazerRS",
+      "vin": "KL79MUSL3PB212154",
+      "stock": "U26241",
+      "color": "White",
+      "url": "https://willyml1979-dotcom.github.io/greg-gardner-motors-ltd-mirror/used/b63f1a799be0.html",
+      "source_url": "https://www.greggardnergm.com/inventory/2023-chevrolet-trailblazer-rs-uhYjiwaGTDivYu3aflQ0UQvdp",
+      "dealer_url": "https://www.greggardnergm.com/inventory/2023-chevrolet-trailblazer-rs-uhYjiwaGTDivYu3aflQ0UQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-10T04:27:31",
       "condition": "used",
       "city": "Squamish",
       "province": "BC"
@@ -221,6 +273,18 @@
       "source_url": "https://www.greggardnergm.com/inventory/2024-chevrolet-silverado-3500hd-high-country-ffqrTRHQSCOWiI0l3XoX4Qvdp",
       "dealer_url": "https://www.greggardnergm.com/inventory/2024-chevrolet-silverado-3500hd-high-country-ffqrTRHQSCOWiI0l3XoX4Qvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T05:32:24",
+      "condition": "used",
+      "city": "Squamish",
+      "province": "BC"
+    },
+    {
+      "name": "Used2024FordBroncoBadlands",
+      "vin": "1FMEE9BP3RLA34706",
+      "stock": "U26243",
+      "url": "https://willyml1979-dotcom.github.io/greg-gardner-motors-ltd-mirror/used/ac2b6088452d.html",
+      "source_url": "https://www.greggardnergm.com/inventory/2024-ford-bronco-badlands-QYLSHCD8QXic2VpbObCMBAvdp",
+      "dealer_url": "https://www.greggardnergm.com/inventory/2024-ford-bronco-badlands-QYLSHCD8QXic2VpbObCMBAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-10T04:27:41",
       "condition": "used",
       "city": "Squamish",
       "province": "BC"
@@ -314,6 +378,19 @@
       "last_verified": "2026-09-24T05:33:44",
       "price": 64599.0,
       "price_currency": "CAD",
+      "condition": "used",
+      "city": "Squamish",
+      "province": "BC"
+    },
+    {
+      "name": "Used2025ChevroletSilverado 1500RST",
+      "vin": "3GCUKEED2SG387587",
+      "stock": "N25276",
+      "color": "White",
+      "url": "https://willyml1979-dotcom.github.io/greg-gardner-motors-ltd-mirror/used/01369a64ed23.html",
+      "source_url": "https://www.greggardnergm.com/inventory/2025-chevrolet-silverado-1500-rst-AuJzZBBzRVGqsNHm2W8VjAvdp",
+      "dealer_url": "https://www.greggardnergm.com/inventory/2025-chevrolet-silverado-1500-rst-AuJzZBBzRVGqsNHm2W8VjAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-10T04:27:53",
       "condition": "used",
       "city": "Squamish",
       "province": "BC"
